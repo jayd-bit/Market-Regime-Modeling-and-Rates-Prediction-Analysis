@@ -145,7 +145,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Contact  
-For questions or suggestions, please contact [Your Name] at [Your Email].  
+For questions or suggestions, please contact Jaydip Singh at jaydipsingh954@gmail.com  
 
 ---
 

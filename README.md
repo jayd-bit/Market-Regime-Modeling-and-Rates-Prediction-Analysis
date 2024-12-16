@@ -1,6 +1,5 @@
 # Market-Regime-Modeling-and-Rates-Prediction-Analysis
 
-Here’s a detailed and professional **README** file for your GitHub repository:
 
 ---
   
